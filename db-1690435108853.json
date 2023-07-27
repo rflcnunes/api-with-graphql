@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "name": "River Brooks",
+      "active": true,
+      "email": "a@a.com",
+      "role": "STUDENT"
+    },
+    {
+      "id": 2,
+      "name": "Willow Reed",
+      "active": true,
+      "email": "g@g.com",
+      "role": "STUDENT"
+    },
+    {
+      "id": 3,
+      "name": "Autumn Leaf",
+      "active": true,
+      "email": "f@f.com",
+      "role": "STUDENT"
+    },
+    {
+      "id": 4,
+      "name": "Forest Moss",
+      "active": true,
+      "email": "c@c.com",
+      "role": "TEACHER"
+    },
+    {
+      "id": 5,
+      "name": "Skye Meadow",
+      "active": true,
+      "email": "s@s.com",
+      "role": "TEACHER"
+    },
+    {
+      "id": 6,
+      "name": "Sage Mountain",
+      "active": true,
+      "email": "m@m.com",
+      "role": "TEACHER"
+    }
+  ],
+  "roles": [
+    {
+      "id": 1,
+      "type": "STUDENT"
+    },
+    {
+      "id": 2,
+      "type": "TEACHER"
+    },
+    {
+      "id": 3,
+      "type": "COORDINATION"
+    }
+  ]
+}
